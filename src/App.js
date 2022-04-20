@@ -2,6 +2,7 @@ import React from "react";
 import "./index.css";
 
 export default function App() {
+  
   return (
     <div class="form-container">
       <form class="register-form">
