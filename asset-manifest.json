@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hawk198723/react-form/static/css/main.10078b94.chunk.css",
+    "main.js": "/hawk198723/react-form/static/js/main.4b719dac.chunk.js",
+    "main.js.map": "/hawk198723/react-form/static/js/main.4b719dac.chunk.js.map",
+    "runtime-main.js": "/hawk198723/react-form/static/js/runtime-main.a1b35d9d.js",
+    "runtime-main.js.map": "/hawk198723/react-form/static/js/runtime-main.a1b35d9d.js.map",
+    "static/js/2.5aaf71f6.chunk.js": "/hawk198723/react-form/static/js/2.5aaf71f6.chunk.js",
+    "static/js/2.5aaf71f6.chunk.js.map": "/hawk198723/react-form/static/js/2.5aaf71f6.chunk.js.map",
+    "index.html": "/hawk198723/react-form/index.html",
+    "precache-manifest.a1ae6a45effba85e21266b352340ccca.js": "/hawk198723/react-form/precache-manifest.a1ae6a45effba85e21266b352340ccca.js",
+    "service-worker.js": "/hawk198723/react-form/service-worker.js",
+    "static/css/main.10078b94.chunk.css.map": "/hawk198723/react-form/static/css/main.10078b94.chunk.css.map",
+    "static/js/2.5aaf71f6.chunk.js.LICENSE.txt": "/hawk198723/react-form/static/js/2.5aaf71f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1b35d9d.js",
+    "static/js/2.5aaf71f6.chunk.js",
+    "static/css/main.10078b94.chunk.css",
+    "static/js/main.4b719dac.chunk.js"
+  ]
+}
